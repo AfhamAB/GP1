@@ -216,7 +216,7 @@ li{
     font-weight: 600;
     }
 .img2{position: absolute;
-    left: 1050px;
+    left: 1100px;
     top: 15px;
     width: 25px;
     height: 25px;
@@ -230,7 +230,7 @@ li{
     flex-shrink: 0;
     background: url(<path-to-image>), }
 .img4{position: absolute;
-    left: 1250px;
+    left: 1200px;
     top: 15px;
     width: 25px;
     height: 25px;
